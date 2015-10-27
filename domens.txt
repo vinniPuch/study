@@ -1,0 +1,9 @@
+Array
+(
+    [kino-fox.net] => Array
+        (
+            [domen] => kino-fox.net
+            [url] => http://kino-fox.net/5944-kannamskiy-blyuz-gangnam-1970-2015.html
+        )
+
+)

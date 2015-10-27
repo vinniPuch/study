@@ -1,0 +1,27 @@
+Array
+(
+    [www.youtube.com] => Array
+        (
+            [count] => 4
+            [embed] => <iframe width="640" height="390" src="https://www.youtube.com/embed/cbAKo1b7XqQ" frameborder="0" allowfullscreen></iframe>
+        )
+
+    [vkino.net] => Array
+        (
+            [count] => 0
+            [embed] => <iframe src="http://vembed.china-cdn88nmbwacdnln8hq8qwe.com/embed.php?mid=1256" width="640" height="390" scrolling="0" frameborder="0" name="ifr_1256" id="ifr_1256"></iframe>
+        )
+
+    [kino-fox.net] => Array
+        (
+            [count] => 0
+            [embed] => 
+        )
+
+    [megogo.net] => Array
+        (
+            [count] => 0
+            [embed] => <iframe width="640" height="390" src="http://megogo.net/ru/e/12892"  frameborder="0" scrolling="no"></iframe>
+        )
+
+)
